@@ -1,8 +1,8 @@
 
 ![A MERN Stack Developer](https://raw.githubusercontent.com/AyonJD/AyonJD/main/cover.jpg)
 
-### Hi there 👋, I'm Ayon Jodder
-#### A MERN Stack Developer
+# Hi there 👋, I'm Ayon Jodder
+### A MERN Stack Developer
 
 Hi, I'm a dedicated and passionate MERN Developer. I'm a quick learner and eager to learn new technologies to expand my knowledge. I want to see myself as a Senior MERN Developer in the next 5 years.
 
