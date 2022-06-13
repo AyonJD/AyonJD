@@ -22,7 +22,7 @@ Skills: REACT / JS / HTML / CSS / TAILWIND / BOOTSTRAP / NODE / EXPRESS / MONGOD
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyonJD&show_icons=true&theme=cobalt) 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AyonJD)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AyonJD&theme=cobalt)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AyonJD)  
 
