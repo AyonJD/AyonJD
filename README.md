@@ -8,7 +8,7 @@ Hi, I'm a dedicated and passionate MERN Developer. I'm a quick learner and eager
 
 Skills: REACT / REACT NATIVE / NEXT JS / JS / TYPESCRIPT / HTML / CSS / SCSS / TAILWIND / BOOTSTRAP / MATERIAL UI / NODE / EXPRESS / MONGODB / MONGOOSE / POSTGRESQL / SOCKET IO / FIREBASE
 
-- 🌱 I’m currently learning TypeScript and React Native 
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: ayonjodder177@gmail.com 
 
 
