@@ -1,6 +1,11 @@
 
 ![A MERN Stack Developer](https://raw.githubusercontent.com/AyonJD/AyonJD/main/cover.jpg)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AyonJD/count.svg" />
+</p>
+
 # Hi there 👋, I'm Ayon Jodder
 ### A MERN Stack Developer
 
