@@ -61,7 +61,7 @@ const ayon = {
 📊 **This week I spent my time on** 
 
 ```text
-⌚︎ Timezone: Asia/Calcutta
+⌚︎ Timezone: Asia/Khulna
 💬 Languages: 
 JavaScript               20 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
 Python                   14 hrs 01 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
