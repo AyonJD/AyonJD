@@ -42,30 +42,18 @@ inputs:
     description: 'Show the time zone in the dev metrics'
     default: "True"
 
-  SHOW_COMMIT:
-    required: false
-    description: "Shows the number of commit graph in the dev metrics"
-    default: "True"
+  SHOW_COMMIT: true
 
-  SHOW_LANGUAGE:
-    required: false
-    description: "Show the Coding language used in dev metrics"
-    default: "True"
+  SHOW_LANGUAGE: true
 
   SHOW_LINES_OF_CODE:
     required: false
     description: "Show the Total Lines of code written Badge till date"
     default: "False"
 
-  SHOW_LANGUAGE_PER_REPO:
-    required: false
-    description: "Show language or framework used across different repository"
-    default: "True"
+  SHOW_LANGUAGE_PER_REPO: true
 
-  SHOW_LOC_CHART:
-    required: false
-    description: ""
-    default: "True"
+  SHOW_LOC_CHART: true
 
   SHOW_DAYS_OF_WEEK:
     required: false
@@ -87,15 +75,9 @@ inputs:
     description: "Show updated date"
     default: "True"
 
-  SHOW_TOTAL_CODE_TIME:
-    required: false
-    description: "Show Total Time you have coded"
-    default: "True"
+  SHOW_TOTAL_CODE_TIME: true
 
-  COMMIT_BY_ME:
-    required: false
-    description: "Git commit with your own name and email"
-    default: "False"
+  COMMIT_BY_ME: true
   
   COMMIT_MESSAGE:
     required: false
