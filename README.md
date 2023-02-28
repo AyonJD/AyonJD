@@ -15,11 +15,33 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-ayon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayon-jodder/)](https://www.linkedin.com/in/ayon-jodder/)
 ![GitHub followers](https://img.shields.io/github/followers/AyonJD?label=Follow&style=social)
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=AyonJD.AyonJD) -->
-![Waka Readme](https://github.com/AyonJD/AyonJD/workflows/Waka%20Readme/badge.svg)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-Hi, I'm a dedicated and passionate MERN Developer. I'm a quick learner and eager to learn new technologies to expand my knowledge. I want to see myself as a Senior MERN Developer in the next 5 years.
+```javascript
+const ayon = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python"],
+    askMeAbout: ["web dev", "tech", "app dev"],
+    technologies: {
+        mobileApp: ["Android App"],
+        frontEnd: {
+            js: ["React", "Next"],
+            css: ["material ui", "tailwind css", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            python: ["flask"]
+        },
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["mongo", "MySql", "postgresql"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentProject: "I am developing a Web Application with NextJS for Syntax Systems Ltd."
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
 Skills: REACT / REACT NATIVE / NEXT JS / JS / TYPESCRIPT / HTML / CSS / SCSS / TAILWIND / BOOTSTRAP / MATERIAL UI / NODE / EXPRESS / MONGODB / MONGOOSE / POSTGRESQL / SOCKET IO / FIREBASE
 
