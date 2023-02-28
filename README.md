@@ -42,6 +42,30 @@ const ayon = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+**I'm an early 🐤** 
+
+```text
+🌞 Morning    25 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    48 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    60 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+```
+
+📊 **This week I spent my time on** 
+
+```text
+⌚︎ Timezone: Asia/Calcutta
+💬 Languages: 
+JavaScript               20 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
+Python                   14 hrs 01 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
+🔥 Editors: 
+VsCode                 29 hrs 37 mins       ██████████████░░░░░░░░░░░   55.81% 
+Replit                  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
+💻 Operating Systems: 
+Windows                  84 hrs 5 mins       █████████████████████████   100.0%
+```
 
 Skills: REACT / REACT NATIVE / NEXT JS / JS / TYPESCRIPT / HTML / CSS / SCSS / TAILWIND / BOOTSTRAP / MATERIAL UI / NODE / EXPRESS / MONGODB / MONGOOSE / POSTGRESQL / SOCKET IO / FIREBASE
 
