@@ -74,11 +74,6 @@ Replit                  5 hrs 4 mins        ███████░░░░░
 Windows                  84 hrs 5 mins       █████████████████████████   100.0%
 ```
 
-Skills: REACT / REACT NATIVE / NEXT JS / JS / TYPESCRIPT / HTML / CSS / SCSS / TAILWIND / BOOTSTRAP / MATERIAL UI / NODE / EXPRESS / MONGODB / MONGOOSE / POSTGRESQL / SOCKET IO / FIREBASE
-
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: ayonjodder177@gmail.com 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AyonJD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayon-jodder/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ayon.jodder.75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ayon-jodder-portfolio.web.app/)  
 
