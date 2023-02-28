@@ -12,7 +12,7 @@
 
 <!-- ![A MERN Stack Developer](https://raw.githubusercontent.com/AyonJD/AyonJD/main/cover.jpg) -->
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-ayon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ayon-jodder/](https://www.linkedin.com/in/ayon-jodder/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-ayon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayon-jodder/)](https://www.linkedin.com/in/ayon-jodder/)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
