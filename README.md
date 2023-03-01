@@ -45,6 +45,12 @@ const ayon = {
 
 <!--START_SECTION:waka-->
 
+```text
+JavaScript   35 mins         ██████████████▒░░░░░░░░░░   56.80 %
+Markdown     22 mins         █████████░░░░░░░░░░░░░░░░   36.02 %
+YAML         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+```
+
 <!--END_SECTION:waka-->
 
 
