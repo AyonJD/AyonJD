@@ -45,13 +45,6 @@ const ayon = {
 
 <!--START_SECTION:waka-->
 
-```text
-From: 22 February 2023 - To: 01 March 2023
-
-JavaScript   35 mins         ██████████████▒░░░░░░░░░░   56.80 %
-Markdown     22 mins         █████████░░░░░░░░░░░░░░░░   36.02 %
-YAML         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-```
 
 <!--END_SECTION:waka-->
 
