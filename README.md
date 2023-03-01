@@ -45,38 +45,7 @@ const ayon = {
 
 <!--START_SECTION:waka-->
 
-```text
-JavaScript   35 mins         ██████████████▒░░░░░░░░░░   56.80 %
-Markdown     22 mins         █████████░░░░░░░░░░░░░░░░   36.02 %
-YAML         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-```
-
 <!--END_SECTION:waka-->
-
-**I'm an early 🐤** 
-
-```text
-🌞 Morning    25 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    48 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    60 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
-```
-
-📊 **This week I spent my time on** 
-
-```text
-⌚︎ Timezone: Asia/Khulna
-💬 Languages: 
-JavaScript               20 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
-Python                   14 hrs 01 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-
-🔥 Editors: 
-VsCode                 29 hrs 37 mins       ██████████████░░░░░░░░░░░   55.81% 
-Replit                  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
-
-💻 Operating Systems: 
-Windows                  84 hrs 5 mins       █████████████████████████   100.0%
-```
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AyonJD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayon-jodder/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ayon.jodder.75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ayon-jodder-portfolio.web.app/)  
