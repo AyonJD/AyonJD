@@ -6,10 +6,10 @@ inputs:
   GH_TOKEN:
     description: 'GitHub access token with Repo scope'
     required: true
-    default: ${{ secrets.redme }}
+    default: ${{ secrets.WAKA_TIME_SECRET }}
 
   WAKATIME_API_KEY:
-    description: 'waka_8bc5f270-1256-46b2-b9a5-25cc5eb11d20'
+    description: 'Waka time secret'
     required: true
 
   SECTION_NAME:
