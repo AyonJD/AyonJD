@@ -46,7 +46,6 @@ const ayon = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
 
 **🐱 My GitHub Data** 
 
