@@ -44,14 +44,15 @@ const ayon = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2040%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 495 Contributions in the Year 2023
+> 🏆 496 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,8 +64,8 @@ const ayon = {
 
 ```text
 🌞 Morning                728 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-🌆 Daytime                2849 commits        ████████░░░░░░░░░░░░░░░░░   31.97 % 
-🌃 Evening                4098 commits        ███████████░░░░░░░░░░░░░░   45.98 % 
+🌆 Daytime                2849 commits        ████████░░░░░░░░░░░░░░░░░   31.96 % 
+🌃 Evening                4100 commits        ████████████░░░░░░░░░░░░░   46.00 % 
 🌙 Night                  1237 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -72,11 +73,11 @@ const ayon = {
 ```text
 Monday                   1336 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
 Tuesday                  1170 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Wednesday                1451 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Wednesday                1453 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
 Thursday                 1032 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 Friday                   1236 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
 Saturday                 1084 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Sunday                   1603 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Sunday                   1603 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
 ```
 
 
@@ -122,7 +123,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AyonJD/AyonJD/master/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2023 17:22:06 UTC
+ Last Updated on 15/03/2023 18:42:10 UTC
 <!--END_SECTION:waka-->
 
 
