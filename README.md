@@ -44,7 +44,7 @@ const ayon = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -87,18 +87,19 @@ Sunday                   1971 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               3 hrs 40 mins       █████████████████████████   99.86 % 
+JavaScript               3 hrs 52 mins       █████████████████████████   99.86 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-webapp-cura              2 hrs 18 mins       ████████████████░░░░░░░░░   62.77 % 
-RideSharing-Rider        1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   37.23 % 
+webapp-cura              2 hrs 18 mins       ███████████████░░░░░░░░░░   59.61 % 
+RideSharing-Rider        1 hr 31 mins        ██████████░░░░░░░░░░░░░░░   39.35 % 
+RideSharing-Driver       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 💻 Operating System: 
-Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +119,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AyonJD/AyonJD/master/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2023 18:41:09 UTC
+ Last Updated on 01/04/2023 18:40:22 UTC
 <!--END_SECTION:waka-->
 
 
