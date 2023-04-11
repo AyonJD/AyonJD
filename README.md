@@ -44,7 +44,7 @@ const ayon = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -87,18 +87,19 @@ Sunday                   1971 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               1 hr 30 mins        █████████████████████░░░░   84.02 % 
-JSON                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+JavaScript               1 hr 40 mins        █████████████████████░░░░   85.28 % 
+JSON                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 57 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-webapp-cura              1 hr 34 mins        ██████████████████████░░░   87.14 % 
-RideSharing-Rider        13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+webapp-cura              1 hr 34 mins        ████████████████████░░░░░   80.28 % 
+RideSharing-Rider        13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+TSC-Client               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +119,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AyonJD/AyonJD/master/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2023 18:41:26 UTC
+ Last Updated on 11/04/2023 18:40:58 UTC
 <!--END_SECTION:waka-->
 
 
