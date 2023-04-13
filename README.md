@@ -44,7 +44,7 @@ const ayon = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -87,18 +87,23 @@ Sunday                   1971 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               1 hr 11 mins        ██████████████████████░░░   86.75 % 
-JSON                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+JavaScript               4 hrs 16 mins       ██████████████████░░░░░░░   72.87 % 
+JSON                     1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-webapp-cura              1 hr 13 mins        ██████████████████████░░░   88.85 % 
-TSC-Client               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+tokyo-free-white-nextjs-a2 hrs 58 mins       █████████████░░░░░░░░░░░░   50.74 % 
+CMS                      1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+webapp-cura              1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+TSC-Client               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +123,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AyonJD/AyonJD/master/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2023 18:42:59 UTC
+ Last Updated on 13/04/2023 18:41:13 UTC
 <!--END_SECTION:waka-->
 
 
