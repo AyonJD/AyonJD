@@ -44,7 +44,7 @@ const ayon = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-717%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-718%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -87,20 +87,22 @@ Sunday                   989 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    2 mins              ███████████████░░░░░░░░░░   61.25 % 
-TypeScript               1 min               ██████████░░░░░░░░░░░░░░░   38.75 % 
+JavaScript               1 hr 11 mins        ███████████████████████░░   93.66 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 mins              ███████████████░░░░░░░░░░   61.25 % 
-E-Commerce-uae-backend   1 min               ████████░░░░░░░░░░░░░░░░░   33.93 % 
-fullboosts-backend       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-Multi-mart-backend       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+webapp-cura              1 hr 11 mins        ███████████████████████░░   93.66 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+E-Commerce-uae-backend   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+fullboosts-backend       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Multi-mart-backend       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +122,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AyonJD/AyonJD/master/assets/bar_graph.png)
 
 
- Last Updated on 12/12/2023 18:41:39 UTC
+ Last Updated on 13/12/2023 18:41:37 UTC
 <!--END_SECTION:waka-->
 
 
