@@ -44,7 +44,7 @@ const ayon = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-965%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-966%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -87,20 +87,20 @@ Sunday                   1045 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               7 hrs 37 mins       ████████████████████████░   94.53 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+JavaScript               8 hrs 24 mins       ████████████████████████░   95.01 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  8 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-safescan                 8 hrs 4 mins        █████████████████████████   100.00 % 
+safescan                 8 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  8 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +120,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AyonJD/AyonJD/master/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2024 18:40:52 UTC
+ Last Updated on 16/03/2024 18:43:05 UTC
 <!--END_SECTION:waka-->
 
 
