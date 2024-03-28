@@ -44,15 +44,13 @@ const ayon = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-979%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-980%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 266 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,20 +85,20 @@ Sunday                   1052 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               5 hrs 51 mins       ████████████████████████░   97.36 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+JavaScript               5 hrs 20 mins       ████████████████████████░   97.31 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  5 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-safescan                 3 hrs 43 mins       ███████████████░░░░░░░░░░   61.79 % 
-sel-connect-final        2 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   38.21 % 
+sel-connect-final        3 hrs 1 min         ██████████████░░░░░░░░░░░   55.20 % 
+safescan                 2 hrs 27 mins       ███████████░░░░░░░░░░░░░░   44.80 % 
 
 💻 Operating System: 
-Windows                  6 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  5 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +118,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AyonJD/AyonJD/master/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2024 18:41:34 UTC
+ Last Updated on 28/03/2024 18:42:24 UTC
 <!--END_SECTION:waka-->
 
 
